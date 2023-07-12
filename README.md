@@ -1,1 +1,1 @@
-# LangChain_Chatbot-for-your-PDF
+# LangChain_PDF-Chatbot
