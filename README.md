@@ -36,7 +36,7 @@ To use the LangChain Question Answering framework, follow these steps:
 1. Place your PDF document in the `pdfs` folder.
 2. Rename `copy.env` file to `.env` and add your API keys for Huggingface and Cohere. 
 3. Update the PDF path variable `file_path`. The Jupyter notebook is commented on for your convenience as well.
-4. Follow the instructions for the notebook [PDF-Chatbot.ipynb]. A prompt will pop up for you to type in your question. 
+4. Follow the instructions for the notebook [PDF-Chatbot.ipynb](https://github.com/affanbinusman/LangChain_PDF-Chatbot/blob/main/PDF-Chatbot.ipynb). A prompt will pop up for you to type in your question. 
 
 ## Examples
 
