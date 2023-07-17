@@ -21,7 +21,7 @@ The framework uses a pre-trained language model (Google Flan T5 and GPT2 from hu
 To run this code, you need the following dependencies:
 
 - Python 3.9.6 or higher
-- LangChain framework (version 1.0 or above)
+- LangChain framework
 - PyPDF4 
 - pdfplumber
 
